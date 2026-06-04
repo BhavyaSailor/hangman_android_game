@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#2F2F2F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="guessGreen">#A5D6A7</color> <!-- Light Green -->
+    <color name="guessRed">#EF9A9A</color>   <!-- Light Red -->
+    <color name="keyDefault">#E0E0E0</color> <!-- Light Gray -->
+    <color name="keyText">#212121</color>
+    <color name="hangmanLineColor">#000000</color>
+    <color name="keyBackground">#E0E0E0</color>
+
+
+
+</resources>
+
+<!--<resources>-->
+<!--    &lt;!&ndash; Default (Light Mode) &ndash;&gt;-->
+<!--    <color name="keyDefault">#E0E0E0</color>-->
+<!--        <color name="white">#FFFFFFFF</color>-->
+<!--    <color name="guessGreen">#4CAF50</color>-->
+<!--    <color name="guessRed">#E53935</color>-->
+<!--</resources>-->

@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Hangman" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+    <item name="colorSurface">@color/black</item>
+    <item name="colorOnSurface">@color/white</item>
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+        <color name="hangmanLineColor">#FFFFFF</color>
+    <color name="keyBackground">#444444</color>
+    <color name="keyText">#FFFFFF</color>
+    <color name="keyDefault">#3A3A3C</color>
+    <!-- deep neutral gray for contrast -->
+</resources>

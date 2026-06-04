@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Hangman" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+<!--        <item name="android:background">@style/MenuButton</item>-->
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+
+    </style>
+
+<!--    <style name="ThemeOverlay.Hangman.Dialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">-->
+<!--&lt;!&ndash;        <item name="colorPrimary">@color/teal_200</item>&ndash;&gt;-->
+<!--        <item name="android:textColor">?attr/colorOnSurface</item>-->
+<!--    </style>-->
+<!--    <style name="Theme.Hangman" parent="Base.Theme.Hangman" />-->
+    <style name="Theme.Hangman" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="textAppearanceBodyMedium">@style/TextAppearance.Poppins.Body</item>
+    </style>
+
+    <style name="TextAppearance.Poppins.Body" parent="TextAppearance.Material3.BodyMedium">
+        <item name="fontFamily">@font/poppins_semibold</item>
+    </style>
+
+</resources>
